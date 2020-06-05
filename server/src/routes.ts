@@ -1,7 +1,3 @@
-import express from "express";
-
-const routes = express.Router();
-
 // Rota: Endereço completo da requisição
 // Recurso: Qual entidade  estamos acessndo do sistema
 
@@ -18,9 +14,15 @@ const routes = express.Router();
 // Query Param: Parâmetros opcionais que vem na própria rota, para filtro, paginação
 // Request Body: Parâmetros para criação/ atualização de informações
 
+import express from "express";
+
+const routes = express.Router();
+
 routes.get("/", (request, response) => {
   return response.json({ message: "Olá" });
 });
+
+export default routes;
 
 /*app.get("/users", (request, response) => {
   const search = String(request.query.search);
@@ -50,5 +52,3 @@ app.post("/users", (request, response) => {
 
   return response.json(user);
 });*/
-
-export default routes;
