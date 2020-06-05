@@ -8,3 +8,5 @@ const connections = knex({
   },
   useNullAsDefault: true,
 });
+
+export default connections;
