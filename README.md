@@ -40,13 +40,13 @@ O layout da aplicação está disponível no Figma:
 ## 🔋 Mobile
 
 <p align="center">
-  <img alt="App Demo" src="https://github.com/VictorKengoo/Ecoleta-NextLevelWeek/tree/master/capa ecoleta e gifs/ecoleta-mobile.gif">
+  <img alt="App Demo" src="https://github.com/VictorKengoo/Ecoleta-NextLevelWeek/tree/master/assets/ecoleta-mobile.gif">
 </p>
 
 ## 🌐 Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="App Demo" src="https://github.com/joaovieira23/ecoleta/blob/master/ecoleta-gifs/ecoleta-web.gif">
+  <img alt="App Demo" src="https://github.com/VictorKengoo/Ecoleta-NextLevelWeek/tree/master/assets/ecoleta-mobile.gif">
 </p>
 
 ## 🛠 Tecnologias
