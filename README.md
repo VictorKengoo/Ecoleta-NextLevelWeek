@@ -1,6 +1,8 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/VictorKengoo/Ecoleta-NextLevelWeek/tree/master/capa ecoleta e gifs/capa-ecoleta.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/VictorKengoo/Ecoleta-NextLevelWeek/tree/master/capa-ecoleta.png" />
 </h1>
+
+
 
 ## 💻 Sobre o projeto
 
