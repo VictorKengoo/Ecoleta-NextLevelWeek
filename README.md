@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="hhttps://github.com/VictorKengoo/Ecoleta-NextLevelWeek/blob/master/assets/capa-ecoleta.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/VictorKengoo/Ecoleta-NextLevelWeek/blob/master/capa-ecoleta.png" />
 </h1>
 
 
