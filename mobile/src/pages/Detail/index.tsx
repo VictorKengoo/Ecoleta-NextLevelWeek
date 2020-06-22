@@ -59,7 +59,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 32,
-    paddingTop: 20 + Constants.statusBarHeight,
   },
 
   pointImage: {
@@ -106,7 +105,7 @@ const styles = StyleSheet.create({
     borderTopWidth: StyleSheet.hairlineWidth,
     borderColor: "#999",
     paddingVertical: 20,
-    paddingBottom: 0,
+    paddingBottom: 25,
     paddingHorizontal: 32,
     flexDirection: "row",
     justifyContent: "space-between",
