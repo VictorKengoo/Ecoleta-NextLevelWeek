@@ -11,7 +11,7 @@ import {
   Image,
   Alert,
 } from "react-native";
-import MapView, { Marker, Point } from "react-native-maps";
+import MapView, { Marker } from "react-native-maps";
 import { SvgUri } from "react-native-svg";
 import api from "../../services/api";
 import * as Location from "expo-location";
