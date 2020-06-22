@@ -12,7 +12,6 @@ import {
 } from "react-native";
 import MapView, { Marker } from "react-native-maps";
 import { SvgUri } from "react-native-svg";
-import { CardStyleInterpolators } from "@react-navigation/stack";
 
 const Points = () => {
   const navigation = useNavigation();
