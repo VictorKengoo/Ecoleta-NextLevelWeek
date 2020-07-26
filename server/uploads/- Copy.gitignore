@@ -1,0 +1,4 @@
+node_modules
+uploades/*
+!upload/.gitkeep
+*.sqlite
