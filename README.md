@@ -79,10 +79,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/joaovieira23/ecoleta
+$ git clone https://github.com/VictorKengoo/Ecoleta-NextLevelWeek
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ecoleta
+$ cd Ecoleta-NextLevelWeek
 
 # Vá para a pasta server
 $ cd server
@@ -100,10 +100,10 @@ $ npm run app
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/VictorKengoo/Ecoleta-NextLevelWeek.git
+$ git clone https://github.com/VictorKengoo/Ecoleta-NextLevelWeek
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd ecoleta
+$ cd Ecoleta-NextLevelWeek
 
 # Vá para a pasta da aplicação Front End
 $ cd web
@@ -121,13 +121,13 @@ $ npm start
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/VictorKengoo/Ecoleta-NextLevelWeek.git
+$ git clone https://github.com/VictorKengoo/Ecoleta-NextLevelWeek
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd mobile-app
+$ cd Ecoleta-NextLevelWeek
 
 # Vá para a pasta da aplicação Front End
-$ cd mobile-app
+$ cd mobile
 
 # Instale o explo-cli
 $ npm i expo-cli
